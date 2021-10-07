@@ -1,0 +1,55 @@
+img{
+    width: 500px;
+    height: auto;
+}
+
+div{
+    border: 3px solid green;
+    
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-header{
+    display: flex;
+    flex-direction: column;
+    padding: 20px 50px
+}
+
+.flex-header-links{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.flex-header-links div{
+    flex: 1;
+    display: flex;
+}
+
+.flex-header-links p{
+    padding: 0 20px;
+}
+
+.flex-header-links h1{
+    flex: 1;
+}
+
+.flex-header-content{
+    display: flex;
+    flex-flow: row;
+}
+
+.flex-header-content div{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.flex-header-content img{
+    flex: 2;
+}
