@@ -1,1 +1,2 @@
 # Project-Landing-Page
+-The layout of this landing page project is very similar to the desired outcome and that was the goal. Modifications can be made to make it more functional and personable to be used as a model/template for a live, public website.
